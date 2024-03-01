@@ -1,0 +1,4 @@
+[DEFAULT]  
+path_output = C:\screenshot\ 
+times = 5
+interval = 1 ; sec
